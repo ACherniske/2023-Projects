@@ -6,6 +6,7 @@
 # Temperature and Humidity Data Collection Device
 Technical Coding and PCB Design for Engineering 100 First Design Session  
 
+[Full Project Download](https://github.com/ACherniske/temperature-and-humidity-data-collection/releases)
 ------------------------------------------------------------------
 
 <details>
