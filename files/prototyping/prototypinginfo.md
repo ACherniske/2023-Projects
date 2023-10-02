@@ -18,6 +18,7 @@ Wearable device for recording temperature and hmidity of air inside football gea
 | Breadboard                                     | 1      |
 | Micro USB Cable                                | 2      |  
 
-
+$~$  
+$~$ 
 ### Breadboard Prototype
 <img src="/assets/images/DataCollectionPrototype_bb.png" width="700">
