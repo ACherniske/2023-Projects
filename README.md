@@ -1,3 +1,7 @@
+[![C++](https://img.shields.io/badge/Language-C++-brightgreen?logo=cplusplus)](https://www.w3schools.com/cpp/default.asp)
+[![KiCad](https://img.shields.io/badge/Program-KiCad-blue?logo=kicad)](https://www.w3schools.com/cpp/default.asp)
+[![Arduino](https://img.shields.io/badge/Platform-Arduino-96D9D9?logo=arduino)](https://www.w3schools.com/cpp/default.asp)
+[![Adafruit](https://img.shields.io/badge/Hardware-Adafruit-darkgray?logo=adafruit)](https://www.w3schools.com/cpp/default.asp)
 # Temperature and Humidity Data Collection Device
 Technical Coding and PCB Design for Engineering 100 First Design Session  
 
@@ -27,8 +31,8 @@ technologies that could reduce or eliminate the need for air conditioning on cam
 campus are part of a more global issue that we hope to address as well.  
 
 ## Device Information 
-- [**Prototyping**](files/prototyping/prototypinginfo.md)
-- [**Schematic**](files/schematic/schematicinfo.md)
-- [**Circuit Board**](files/pcb/PCBinfo.md)
+|-*Prototyping Process* | [**Prototyping**](files/prototyping/prototypinginfo.md)  
+-*Schematic Info and Files* | [**Schematic**](files/schematic/schematicinfo.md)  
+-*PCB Info and Files* | [**Circuit Board**](files/pcb/pcbinfo.md)   
 
 ## Images
