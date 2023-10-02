@@ -44,3 +44,18 @@ campus are part of a more global issue that we hope to address as well.
 - *Code* - [**Arduino INO file**](DataCollectionDevice.ino)
 
 ## Images
+<div align=center>
+  <img src="/assets/images/DataCollectionPrototype3.png" width="700" alt="IMG3"/>
+  <br>
+  Circuit Design Copper Layers for Production
+</div>
+<div align=center>
+  <img src="/assets/images/DataCollectionPrototype1.png" width="700" alt="IMG1"/>
+  <br>
+  KiCad Render of Circuit Board Top
+</div>
+<div align=center>
+  <img src="/assets/images/DataCollectionPrototype2.png" width="700" alt="IMG2"/>
+  <br>
+  KiCad Render of Circuit Board Bottom
+</div>
