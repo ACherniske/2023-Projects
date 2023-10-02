@@ -1,5 +1,5 @@
 # Device Information
-Wearable Device For Recording Temperature and Humidity of Air Inside Football Gear
+Wearable device for recording temperature and hmidity of air inside football gear
 
 ## Process
 - **Initialize** and run a series of diagnostic tests to make sure it is working properly
