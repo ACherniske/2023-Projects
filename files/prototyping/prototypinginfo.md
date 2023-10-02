@@ -21,4 +21,15 @@ Wearable device for recording temperature and hmidity of air inside football gea
 $~$  
 $~$ 
 ### Breadboard Prototype
-<img src="/assets/images/DataCollectionPrototype_bb.png" width="700">
+
+The components of this project were assembled on a breadboard and coded in Arduino IDE. 
+
+[Adafruit Metro Mini Datasheet](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-metro-mini.pdf)  
+[Adafruit AM2320 Datasheet](https://cdn-shop.adafruit.com/product-files/3721/AM2320.pdf)  
+[Adafruit Micro SD Breakout Board Documentation](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-micro-sd-breakout-board-card-tutorial.pdf)  
+
+<div align=center>
+  <img src="/assets/images/DataCollectionPrototype_bb.png" width="700" alt="Diagram of Data Collection Prototype"/>
+  <br>
+  Diagram of Prototype (Created in Fritzing)
+</div>
