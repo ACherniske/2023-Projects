@@ -1,9 +1,17 @@
-# ENGR100-Prototype
+# Temperature and Humidity Data Collection Device
+Technical Coding and PCB Design for Engineering 100 First Design Session
 
-This project is exclusively for use in a prototype for an Engineering 100 class.
-Project uses an Arduino Metro Mini with the Adafruit AM2320 Temperature and Humidity Sensor.
-It dumps data to a micro SD card for storage and easy access. 
+## About the Class
 
-The read file is for easy acccess of files through serial monitor.
+[**Engineering 100**](https://coursecatalog.bucknell.edu/search/?P=ENGR%20100)  
 
-More updates to this repo will likely be added in the conclusion of this project.
+> Introduction to the study and practice of engineering through authentic design projects centered around a common theme. Project-based course focuses on the engineering design process, teamwork fundamentals, engineering ethics, and the development of both technical and professional skills. Permission of instructor required for non-first-year students.  
+
+**COURSE GOALS**
+
+ - *Develop* creative solutions for problems facing our world by applying engineering design principles, math and science, and data analysis in a sustainable manner. 
+ + *Construct* an effective prototype or model utilizing appropriate technology and tools.
+ * *Demonstrate* improved proficiency with “power skills” such as communication, teamwork, information literacy, and professional development.
+ - *Employ* the NSPE code of ethics to examine ethical case studies and extrapolate principles for other situations.
+
+##Device Information
