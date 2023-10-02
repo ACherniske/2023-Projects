@@ -7,7 +7,10 @@ Technical Coding and PCB Design for Engineering 100 First Design Session
 
 ------------------------------------------------------------------
 
-## About the Class
+<details>
+<summary> Class Information and Scenario</summary>
+
+## About the Class 
 
 [**Engineering 100**](https://coursecatalog.bucknell.edu/search/?P=ENGR%20100)  
 
@@ -21,6 +24,7 @@ Technical Coding and PCB Design for Engineering 100 First Design Session
  - *Employ* the NSPE code of ethics to examine ethical case studies and extrapolate principles for other situations.
 ------------------------------------------------------------------
 
+
 ## **Scenario**  
 
 Energy use on campus might be significantly reduced if a means of remaining comfortable in hot
@@ -30,9 +34,12 @@ buildings are below capacity). In this session, students will be challenged to d
 technologies that could reduce or eliminate the need for air conditioning on campus. The challenges on
 campus are part of a more global issue that we hope to address as well.  
 
-## Device Information 
-|-*Prototyping Process* | [**Prototyping**](files/prototyping/prototypinginfo.md)  
--*Schematic Info and Files* | [**Schematic**](files/schematic/schematicinfo.md)  
--*PCB Info and Files* | [**Circuit Board**](files/pcb/pcbinfo.md)   
+</details>
+
+### Device Information 
+
+-*Prototyping Process* - [**Prototyping Process**](files/prototyping/prototypinginfo.md)    
+-*Schematic Info and Files* - [**Schematic Design**](files/schematic/schematicinfo.md)          
+-*PCB Info and Files* - [**Circuit Board Design**](files/pcb/pcbinfo.md)                
 
 ## Images
