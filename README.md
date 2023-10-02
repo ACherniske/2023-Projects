@@ -43,6 +43,7 @@ campus are part of a more global issue that we hope to address as well.
 - *Schematic Info and Files* - [**Schematic Design**](files/schematic/schematicinfo.md)          
 - *PCB Info and Files* - [**Circuit Board Design**](files/pcb/pcbinfo.md)  
 - *Code* - [**Arduino INO file**](DataCollectionDevice.ino)
+- *Gerbers* - [**Gerber Files**](assets/gerbers)
 
 ## Images
 <div align=center>
