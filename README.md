@@ -38,8 +38,9 @@ campus are part of a more global issue that we hope to address as well.
 
 ### Device Information 
 
--*Prototyping Process* - [**Prototyping Process**](files/prototyping/prototypinginfo.md)    
--*Schematic Info and Files* - [**Schematic Design**](files/schematic/schematicinfo.md)          
--*PCB Info and Files* - [**Circuit Board Design**](files/pcb/pcbinfo.md)                
+- *Prototyping Process* - [**Prototyping Process**](files/prototyping/prototypinginfo.md)    
+- *Schematic Info and Files* - [**Schematic Design**](files/schematic/schematicinfo.md)          
+- *PCB Info and Files* - [**Circuit Board Design**](files/pcb/pcbinfo.md)  
+- *Code* - [**Arduino INO file**](DataCollectionDevice.ino)
 
 ## Images
