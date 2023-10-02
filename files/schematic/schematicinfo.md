@@ -11,7 +11,11 @@ Process of desinging the schematic for the system
   Schematic of Prototype (Created in Fritzing)
 </div>
 
-**Symbols Used in Schematic**
+<br>
+
+<details>
+<summary><b>Symbols used in Schematic</b></summary>
+  
 - Adafruit Metro Mini (Adafruit #2590)
 - Adafruit AM2320 Temperature and Humidity Sensor (Adafruit #3721)
 - Adafruit Micro SD Card Breakout Board (Adafruit #254)
@@ -28,3 +32,5 @@ Process of desinging the schematic for the system
 - DI  - Direct Input
 - DO  - Direct Output
 - CLK - Clock
+
+</details>
